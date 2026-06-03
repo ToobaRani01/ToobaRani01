@@ -327,7 +327,7 @@ Current Status: 3rd Year
 <img src="https://img.shields.io/badge/GitHub-ToobaRani01-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://toobarani01.github.io">
+<a href="https://toobarani01.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
