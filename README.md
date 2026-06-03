@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tooba Rani</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning | Deep Learning | Computer Vision | Generative AI
+AI Engineer | Machine Learning | Deep Learning | Generative AI
 </h3>
 
 <p align="center">
