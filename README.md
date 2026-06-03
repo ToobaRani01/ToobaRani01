@@ -253,6 +253,8 @@ https://github.com/ToobaRani01/Anemia_Analysis
 ---
 
 ## 🎓 Face Recognition Attendance System
+🔗 Repository:
+https://github.com/ToobaRani01/-SmartAttendance-WhatsAppNotifier
 
 ### Features
 
